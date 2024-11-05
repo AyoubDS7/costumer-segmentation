@@ -37,5 +37,20 @@ This project demonstrates the power of data-driven customer segmentation in craf
 
 ## Repository Structure
 
-customer-segmentation/ ├── data/ # Raw data files for analysis │ ├── transactions.csv # Transaction data │ ├── demographics.csv # Demographic data │ └── other_data.csv # Additional data files │ ├── notebooks/ # Jupyter notebooks for EDA and clustering │ ├── 01_data_cleaning.ipynb # Data cleaning and preprocessing │ ├── 02_feature_engineering.ipynb # Feature engineering │ └── 03_clustering_analysis.ipynb # Clustering and insights │ ├── src/ # Source code for data processing and clustering │ ├── preprocess.py # Data preprocessing functions │ ├── clustering.py # Clustering algorithms and helper functions │ └── utils.py # Utility functions │ ├── README.md # Project documentation ├── requirements.txt # List of dependencies └── .gitignore # Files and folders to ignore in version control
+customer-segmentation/ ├── data/ 
+# Raw data files for analysis │ ├── transactions.csv 
+# Transaction data │ ├── demographics.csv 
+# Demographic data │ └── other_data.csv 
+# Additional data files │ ├── notebooks/ 
+# Jupyter notebooks for EDA and clustering │ ├── 01_data_cleaning.ipynb 
+# Data cleaning and preprocessing │ ├── 02_feature_engineering.ipynb 
+# Feature engineering │ └── 03_clustering_analysis.ipynb 
+# Clustering and insights │ ├── src/ 
+# Source code for data processing and clustering │ ├── preprocess.py 
+# Data preprocessing functions │ ├── clustering.py 
+# Clustering algorithms and helper functions │ └── utils.py
+# Utility functions │ ├── README.md 
+# Project documentation ├── requirements.txt 
+# List of dependencies └── .gitignore
+# Files and folders to ignore in version control
 
